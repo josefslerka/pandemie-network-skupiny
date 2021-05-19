@@ -10,20 +10,8 @@
       <attribute id="v_shares" title="shares" type="double"></attribute>
       <attribute id="v_coord.shares" title="coord.shares" type="double"></attribute>
       <attribute id="v_account.avg.subscribercount" title="account.avg.subscriberCount" type="double"></attribute>
-      <attribute id="v_account.platform" title="account.platform" type="string"></attribute>
       <attribute id="v_account.name" title="account.name" type="string"></attribute>
-      <attribute id="v_name.changed" title="name.changed" type="boolean"></attribute>
-      <attribute id="v_account.handle" title="account.handle" type="string"></attribute>
-      <attribute id="v_handle.changed" title="handle.changed" type="boolean"></attribute>
-      <attribute id="v_account.verified" title="account.verified" type="boolean"></attribute>
-      <attribute id="v_pageadmintopcountry.changed" title="pageAdminTopCountry.changed" type="boolean"></attribute>
-      <attribute id="v_account.pageadmintopcountry" title="account.pageAdminTopCountry" type="string"></attribute>
       <attribute id="v_account.accounttype" title="account.accountType" type="string"></attribute>
-      <attribute id="v_account.pagecreateddate" title="account.pageCreatedDate" type="string"></attribute>
-      <attribute id="v_account.pagedescription" title="account.pageDescription" type="string"></attribute>
-      <attribute id="v_account.pagedescription.changed" title="account.pageDescription.changed" type="boolean"></attribute>
-      <attribute id="v_account.pagecategory" title="account.pageCategory" type="string"></attribute>
-      <attribute id="v_account.pagecategory.changed" title="account.pageCategory.changed" type="boolean"></attribute>
       <attribute id="v_degree" title="degree" type="double"></attribute>
       <attribute id="v_component" title="component" type="double"></attribute>
       <attribute id="v_cluster" title="cluster" type="double"></attribute>
@@ -51,20 +39,8 @@
           <attvalue for="v_shares" value="37.0"></attvalue>
           <attvalue for="v_coord.shares" value="10.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="2926.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Slovensko a svet, novoty, články, politika"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="27.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -75,8 +51,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.6226851851851851"></attvalue>
           <attvalue for="betweenesscentrality" value="5.062469370583629"></attvalue>
         </attvalues>
-        <viz:size value="8.571428"></viz:size>
-        <viz:position x="577.10706" y="-420.59766"></viz:position>
+        <viz:size value="11.428572"></viz:size>
+        <viz:position x="-810.04706" y="-269.51456"></viz:position>
         <viz:color r="140" g="185" b="0"></viz:color>
       </node>
       <node id="n1" label="SLOVENSKO-RUSKÁ SPOLOČNOSŤ">
@@ -85,20 +61,8 @@
           <attvalue for="v_shares" value="29.0"></attvalue>
           <attvalue for="v_coord.shares" value="17.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="6530.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="SLOVENSKO-RUSKÁ SPOLOČNOSŤ"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="33.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -109,8 +73,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.6643518518518519"></attvalue>
           <attvalue for="betweenesscentrality" value="6.970843841921634"></attvalue>
         </attvalues>
-        <viz:size value="13.571429"></viz:size>
-        <viz:position x="520.13727" y="-321.52402"></viz:position>
+        <viz:size value="20.428572"></viz:size>
+        <viz:position x="-691.2534" y="-321.81448"></viz:position>
         <viz:color r="140" g="185" b="0"></viz:color>
       </node>
       <node id="n2" label="Chceme mier a slobodu!">
@@ -119,20 +83,8 @@
           <attvalue for="v_shares" value="32.0"></attvalue>
           <attvalue for="v_coord.shares" value="12.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="3146.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Chceme mier a slobodu!"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="36.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -143,8 +95,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.6898148148148148"></attvalue>
           <attvalue for="betweenesscentrality" value="10.464983025495735"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="687.7874" y="89.27103"></viz:position>
+        <viz:size value="14.0"></viz:size>
+        <viz:position x="-387.61545" y="-744.48334"></viz:position>
         <viz:color r="140" g="185" b="0"></viz:color>
       </node>
       <node id="n4" label="Vlastenci PF 2021 ČR/SR">
@@ -153,20 +105,8 @@
           <attvalue for="v_shares" value="30.0"></attvalue>
           <attvalue for="v_coord.shares" value="10.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="2058.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Vlastenci PF 2021 ČR/SR"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="25.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -177,8 +117,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.6412037037037037"></attvalue>
           <attvalue for="betweenesscentrality" value="4.475542885333907"></attvalue>
         </attvalues>
-        <viz:size value="8.571428"></viz:size>
-        <viz:position x="-138.88074" y="-590.2286"></viz:position>
+        <viz:size value="11.428572"></viz:size>
+        <viz:position x="-517.7192" y="505.3956"></viz:position>
         <viz:color r="217" g="125" b="216"></viz:color>
       </node>
       <node id="n5" label="Skuteční vlastenci">
@@ -187,20 +127,8 @@
           <attvalue for="v_shares" value="33.0"></attvalue>
           <attvalue for="v_coord.shares" value="16.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="3838.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Skuteční vlastenci"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="41.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -211,8 +139,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.738425925925926"></attvalue>
           <attvalue for="betweenesscentrality" value="40.95811955598343"></attvalue>
         </attvalues>
-        <viz:size value="12.857143"></viz:size>
-        <viz:position x="-1.4756278" y="-511.08856"></viz:position>
+        <viz:size value="19.142857"></viz:size>
+        <viz:position x="-530.999" y="319.56482"></viz:position>
         <viz:color r="217" g="125" b="216"></viz:color>
       </node>
       <node id="n6" label="Nebudeme volit strany podporující selhávající multikulturalismus.">
@@ -221,20 +149,8 @@
           <attvalue for="v_shares" value="60.0"></attvalue>
           <attvalue for="v_coord.shares" value="25.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="10775.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Nebudeme volit strany podporující selhávající multikulturalismus."></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="54.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -245,8 +161,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.8032407407407408"></attvalue>
           <attvalue for="betweenesscentrality" value="137.37621476856967"></attvalue>
         </attvalues>
-        <viz:size value="19.285715"></viz:size>
-        <viz:position x="72.55619" y="-254.5599"></viz:position>
+        <viz:size value="30.714287"></viz:size>
+        <viz:position x="-309.07132" y="78.236534"></viz:position>
         <viz:color r="217" g="125" b="216"></viz:color>
       </node>
       <node id="n7" label="Generál Blaško v EU parlamentu.!">
@@ -255,20 +171,8 @@
           <attvalue for="v_shares" value="96.0"></attvalue>
           <attvalue for="v_coord.shares" value="35.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="7505.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Generál Blaško v EU parlamentu.!"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="79.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -279,8 +183,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.8935185185185185"></attvalue>
           <attvalue for="betweenesscentrality" value="268.0225665328799"></attvalue>
         </attvalues>
-        <viz:size value="26.428572"></viz:size>
-        <viz:position x="-182.99971" y="-306.46414"></viz:position>
+        <viz:size value="43.57143"></viz:size>
+        <viz:position x="-215.07431" y="387.9691"></viz:position>
         <viz:color r="217" g="125" b="216"></viz:color>
       </node>
       <node id="n9" label="Podporujeme premiéra Babiše před podlými útoky na rodinu a snahou o puč!">
@@ -289,20 +193,8 @@
           <attvalue for="v_shares" value="15.0"></attvalue>
           <attvalue for="v_coord.shares" value="9.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="21850.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Podporujeme premiéra Babiše před podlými útoky na rodinu a snahou o puč!"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="22.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -313,8 +205,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.6273148148148149"></attvalue>
           <attvalue for="betweenesscentrality" value="5.672896049598834"></attvalue>
         </attvalues>
-        <viz:size value="7.857143"></viz:size>
-        <viz:position x="-403.08942" y="-135.95578"></viz:position>
+        <viz:size value="10.142857"></viz:size>
+        <viz:position x="137.13332" y="469.2916"></viz:position>
         <viz:color r="255" g="112" b="69"></viz:color>
       </node>
       <node id="n10" label="NevolimeProimigracniPolitiky">
@@ -323,20 +215,8 @@
           <attvalue for="v_shares" value="23.0"></attvalue>
           <attvalue for="v_coord.shares" value="12.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="3442.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="NevolimeProimigracniPolitiky"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="29.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -347,8 +227,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.6689814814814814"></attvalue>
           <attvalue for="betweenesscentrality" value="11.855796348063475"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-296.0777" y="274.0551"></viz:position>
+        <viz:size value="14.0"></viz:size>
+        <viz:position x="461.76535" y="110.4624"></viz:position>
         <viz:color r="255" g="112" b="69"></viz:color>
       </node>
       <node id="n11" label="LIDÉ,NEDEJME SE!!!..">
@@ -357,20 +237,8 @@
           <attvalue for="v_shares" value="21.0"></attvalue>
           <attvalue for="v_coord.shares" value="9.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="1564.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="LIDÉ,NEDEJME SE!!!.."></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="22.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -381,8 +249,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.625"></attvalue>
           <attvalue for="betweenesscentrality" value="11.347220326491911"></attvalue>
         </attvalues>
-        <viz:size value="7.857143"></viz:size>
-        <viz:position x="-486.4829" y="189.33694"></viz:position>
+        <viz:size value="10.142857"></viz:size>
+        <viz:position x="514.3427" y="362.28702"></viz:position>
         <viz:color r="255" g="112" b="69"></viz:color>
       </node>
       <node id="n12" label="Chceme obecné referendum bez omezení tématu.">
@@ -391,20 +259,8 @@
           <attvalue for="v_shares" value="93.0"></attvalue>
           <attvalue for="v_coord.shares" value="35.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="29832.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Chceme obecné referendum bez omezení tématu."></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="58.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -415,8 +271,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.7962962962962963"></attvalue>
           <attvalue for="betweenesscentrality" value="195.370686448374"></attvalue>
         </attvalues>
-        <viz:size value="26.428572"></viz:size>
-        <viz:position x="-498.15137" y="-289.23938"></viz:position>
+        <viz:size value="43.57143"></viz:size>
+        <viz:position x="53.321194" y="654.5244"></viz:position>
         <viz:color r="255" g="112" b="69"></viz:color>
       </node>
       <node id="n13" label="Generál Hynek Blaško - za naši vlast!">
@@ -425,20 +281,8 @@
           <attvalue for="v_shares" value="120.0"></attvalue>
           <attvalue for="v_coord.shares" value="40.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="7498.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Generál Hynek Blaško - za naši vlast!"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="63.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -449,8 +293,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.8310185185185185"></attvalue>
           <attvalue for="betweenesscentrality" value="142.56774242745237"></attvalue>
         </attvalues>
-        <viz:size value="30.0"></viz:size>
-        <viz:position x="-385.58148" y="-484.7664"></viz:position>
+        <viz:size value="50.0"></viz:size>
+        <viz:position x="-223.88489" y="722.5098"></viz:position>
         <viz:color r="217" g="125" b="216"></viz:color>
       </node>
       <node id="n14" label="Trikolóra Hnutí Občanů - nová skupina">
@@ -459,20 +303,8 @@
           <attvalue for="v_shares" value="9.0"></attvalue>
           <attvalue for="v_coord.shares" value="6.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="1077.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Trikolóra Hnutí Občanů - nová skupina"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="11.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -483,8 +315,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.5509259259259259"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
         </attvalues>
-        <viz:size value="5.714286"></viz:size>
-        <viz:position x="-558.7965" y="-3.2920578"></viz:position>
+        <viz:size value="6.285714"></viz:size>
+        <viz:position x="374.63504" y="538.8083"></viz:position>
         <viz:color r="255" g="112" b="69"></viz:color>
       </node>
       <node id="n15" label="Svetová ekonomika a geopolitika">
@@ -493,20 +325,8 @@
           <attvalue for="v_shares" value="10.0"></attvalue>
           <attvalue for="v_coord.shares" value="7.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="3213.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Svetová ekonomika a geopolitika"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="15.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -517,8 +337,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.5810185185185185"></attvalue>
           <attvalue for="betweenesscentrality" value="2.4168379250884477"></attvalue>
         </attvalues>
-        <viz:size value="6.4285717"></viz:size>
-        <viz:position x="-499.01398" y="9.363754"></viz:position>
+        <viz:size value="7.5714283"></viz:size>
+        <viz:position x="348.3447" y="479.41116"></viz:position>
         <viz:color r="255" g="112" b="69"></viz:color>
       </node>
       <node id="n16" label="CZEXIT - CzexitCzexit.cz - pro rychlý konec EU členství, vlasteneckou vládu">
@@ -527,20 +347,8 @@
           <attvalue for="v_shares" value="80.0"></attvalue>
           <attvalue for="v_coord.shares" value="27.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="5679.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="CZEXIT - CzexitCzexit.cz - pro rychlý konec EU členství, vlasteneckou vládu"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="65.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -551,8 +359,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.8657407407407408"></attvalue>
           <attvalue for="betweenesscentrality" value="176.3673161900608"></attvalue>
         </attvalues>
-        <viz:size value="20.714287"></viz:size>
-        <viz:position x="-294.56235" y="36.366646"></viz:position>
+        <viz:size value="33.285713"></viz:size>
+        <viz:position x="229.49492" y="258.18512"></viz:position>
         <viz:color r="255" g="112" b="69"></viz:color>
       </node>
       <node id="n17" label="AUVA®- proti populistům a komunistům &quot;Sami nejsme nic&quot;">
@@ -561,20 +369,8 @@
           <attvalue for="v_shares" value="25.0"></attvalue>
           <attvalue for="v_coord.shares" value="8.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="6455.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="AUVA®- proti populistům a komunistům &quot;Sami nejsme nic&quot;"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="17.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="2.0"></attvalue>
@@ -585,8 +381,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.5381944444444446"></attvalue>
           <attvalue for="betweenesscentrality" value="25.634087628108468"></attvalue>
         </attvalues>
-        <viz:size value="7.1428576"></viz:size>
-        <viz:position x="-1063.4309" y="461.86533"></viz:position>
+        <viz:size value="8.857143"></viz:size>
+        <viz:position x="1292.0181" y="939.27"></viz:position>
         <viz:color r="0" g="199" b="255"></viz:color>
       </node>
       <node id="n18" label="DEMOBLOK">
@@ -595,20 +391,8 @@
           <attvalue for="v_shares" value="18.0"></attvalue>
           <attvalue for="v_coord.shares" value="7.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="2480.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="DEMOBLOK"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="9.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="2.0"></attvalue>
@@ -619,8 +403,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.4293981481481477"></attvalue>
           <attvalue for="betweenesscentrality" value="1.4268067226890757"></attvalue>
         </attvalues>
-        <viz:size value="6.4285717"></viz:size>
-        <viz:position x="-1099.2412" y="441.76263"></viz:position>
+        <viz:size value="7.5714283"></viz:size>
+        <viz:position x="1307.9181" y="980.43274"></viz:position>
         <viz:color r="0" g="199" b="255"></viz:color>
       </node>
       <node id="n19" label="Necenzurovaný bojkot Babišových výrobků">
@@ -629,20 +413,8 @@
           <attvalue for="v_shares" value="25.0"></attvalue>
           <attvalue for="v_coord.shares" value="7.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="18044.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Necenzurovaný bojkot Babišových výrobků"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="work_team"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="8.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="2.0"></attvalue>
@@ -653,8 +425,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.539351851851852"></attvalue>
           <attvalue for="betweenesscentrality" value="35.159744330466246"></attvalue>
         </attvalues>
-        <viz:size value="6.4285717"></viz:size>
-        <viz:position x="-1016.03204" y="482.06036"></viz:position>
+        <viz:size value="7.5714283"></viz:size>
+        <viz:position x="1269.5173" y="887.68256"></viz:position>
         <viz:color r="0" g="199" b="255"></viz:color>
       </node>
       <node id="n20" label="GENERÁLNÍ STÁVKA">
@@ -663,20 +435,8 @@
           <attvalue for="v_shares" value="18.0"></attvalue>
           <attvalue for="v_coord.shares" value="7.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="2825.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="GENERÁLNÍ STÁVKA"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="6.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -687,8 +447,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.5138888888888888"></attvalue>
           <attvalue for="betweenesscentrality" value="0.29706349206349203"></attvalue>
         </attvalues>
-        <viz:size value="6.4285717"></viz:size>
-        <viz:position x="93.29833" y="176.83766"></viz:position>
+        <viz:size value="7.5714283"></viz:size>
+        <viz:position x="72.271614" y="-228.43446"></viz:position>
         <viz:color r="217" g="125" b="216"></viz:color>
       </node>
       <node id="n21" label="Babiš premiérem, Zeman prezidentem...">
@@ -697,20 +457,8 @@
           <attvalue for="v_shares" value="50.0"></attvalue>
           <attvalue for="v_coord.shares" value="10.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="22750.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Babiš premiérem, Zeman prezidentem..."></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="28.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -721,8 +469,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.662037037037037"></attvalue>
           <attvalue for="betweenesscentrality" value="5.350102644438883"></attvalue>
         </attvalues>
-        <viz:size value="8.571428"></viz:size>
-        <viz:position x="125.64607" y="-669.7573"></viz:position>
+        <viz:size value="11.428572"></viz:size>
+        <viz:position x="-776.96234" y="314.90106"></viz:position>
         <viz:color r="217" g="125" b="216"></viz:color>
       </node>
       <node id="n22" label="ZACHRÁŇME SLOVENSKO - AKTÍVNI OBČANIA">
@@ -731,20 +479,8 @@
           <attvalue for="v_shares" value="62.0"></attvalue>
           <attvalue for="v_coord.shares" value="17.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="5073.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="ZACHRÁŇME SLOVENSKO - AKTÍVNI OBČANIA"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="40.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -755,8 +491,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.6805555555555556"></attvalue>
           <attvalue for="betweenesscentrality" value="11.80635612110777"></attvalue>
         </attvalues>
-        <viz:size value="13.571429"></viz:size>
-        <viz:position x="315.0399" y="-483.19827"></viz:position>
+        <viz:size value="20.428572"></viz:size>
+        <viz:position x="-695.38324" y="-27.351536"></viz:position>
         <viz:color r="140" g="185" b="0"></viz:color>
       </node>
       <node id="n23" label="Šťastný svět  ...?! ☯️">
@@ -765,20 +501,8 @@
           <attvalue for="v_shares" value="56.0"></attvalue>
           <attvalue for="v_coord.shares" value="12.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="7494.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Šťastný svět  ...?! ☯️"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="14.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -789,8 +513,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.5578703703703702"></attvalue>
           <attvalue for="betweenesscentrality" value="2.3578296687580838"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-44.6432" y="479.91135"></viz:position>
+        <viz:size value="14.0"></viz:size>
+        <viz:position x="495.55078" y="-284.9626"></viz:position>
         <viz:color r="217" g="125" b="216"></viz:color>
       </node>
       <node id="n24" label="Som vlastenec, volím stranu Vlasť">
@@ -799,20 +523,8 @@
           <attvalue for="v_shares" value="44.0"></attvalue>
           <attvalue for="v_coord.shares" value="14.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="5645.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Som vlastenec, volím stranu Vlasť"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="44.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -823,8 +535,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.7337962962962963"></attvalue>
           <attvalue for="betweenesscentrality" value="26.40581716603549"></attvalue>
         </attvalues>
-        <viz:size value="11.428572"></viz:size>
-        <viz:position x="467.5204" y="-565.0817"></viz:position>
+        <viz:size value="16.57143"></viz:size>
+        <viz:position x="-899.77216" y="-62.691113"></viz:position>
         <viz:color r="140" g="185" b="0"></viz:color>
       </node>
       <node id="n25" label="Přátelé Ruska v České republice">
@@ -833,20 +545,8 @@
           <attvalue for="v_shares" value="39.0"></attvalue>
           <attvalue for="v_coord.shares" value="8.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="16654.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Přátelé Ruska v České republice"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="28.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -857,8 +557,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.6435185185185185"></attvalue>
           <attvalue for="betweenesscentrality" value="2.535650504722386"></attvalue>
         </attvalues>
-        <viz:size value="7.1428576"></viz:size>
-        <viz:position x="252.80238" y="-158.02629"></viz:position>
+        <viz:size value="8.857143"></viz:size>
+        <viz:position x="-347.75" y="-169.92445"></viz:position>
         <viz:color r="217" g="125" b="216"></viz:color>
       </node>
       <node id="n26" label="Volím Harabina">
@@ -867,20 +567,8 @@
           <attvalue for="v_shares" value="63.0"></attvalue>
           <attvalue for="v_coord.shares" value="12.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="12449.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Volím Harabina"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="39.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -891,8 +579,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.7314814814814816"></attvalue>
           <attvalue for="betweenesscentrality" value="26.958713259432017"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="486.03668" y="204.57579"></viz:position>
+        <viz:size value="14.0"></viz:size>
+        <viz:position x="-133.00908" y="-647.9956"></viz:position>
         <viz:color r="140" g="185" b="0"></viz:color>
       </node>
       <node id="n27" label="&quot;SLOVENSKO PRETRVÁ, AK SA HODNOTOVO OBRODÍ&quot;">
@@ -901,20 +589,8 @@
           <attvalue for="v_shares" value="67.0"></attvalue>
           <attvalue for="v_coord.shares" value="12.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="31448.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="&quot;SLOVENSKO PRETRVÁ, AK SA HODNOTOVO OBRODÍ&quot;"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="33.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -925,8 +601,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.6898148148148149"></attvalue>
           <attvalue for="betweenesscentrality" value="13.041388207386914"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="363.4413" y="-312.55994"></viz:position>
+        <viz:size value="14.0"></viz:size>
+        <viz:position x="-565.0537" y="-196.00859"></viz:position>
         <viz:color r="140" g="185" b="0"></viz:color>
       </node>
       <node id="n29" label="Nový Bojkot Babišových Výrobků">
@@ -935,20 +611,8 @@
           <attvalue for="v_shares" value="81.0"></attvalue>
           <attvalue for="v_coord.shares" value="9.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="60703.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Nový Bojkot Babišových Výrobků"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="17.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="2.0"></attvalue>
@@ -959,8 +623,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.5810185185185186"></attvalue>
           <attvalue for="betweenesscentrality" value="86.2913641625084"></attvalue>
         </attvalues>
-        <viz:size value="7.857143"></viz:size>
-        <viz:position x="-1005.07684" y="343.55505"></viz:position>
+        <viz:size value="10.142857"></viz:size>
+        <viz:position x="1153.585" y="995.5753"></viz:position>
         <viz:color r="0" g="199" b="255"></viz:color>
       </node>
       <node id="n30" label="Aktivisti.cz - Nová skupina pro všechny.">
@@ -969,20 +633,8 @@
           <attvalue for="v_shares" value="26.0"></attvalue>
           <attvalue for="v_coord.shares" value="6.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="1613.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Aktivisti.cz - Nová skupina pro všechny."></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="10.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="2.0"></attvalue>
@@ -993,8 +645,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.5277777777777779"></attvalue>
           <attvalue for="betweenesscentrality" value="30.63860664229892"></attvalue>
         </attvalues>
-        <viz:size value="5.714286"></viz:size>
-        <viz:position x="-1084.0682" y="322.93182"></viz:position>
+        <viz:size value="6.285714"></viz:size>
+        <viz:position x="1213.1166" y="1064.1034"></viz:position>
         <viz:color r="0" g="199" b="255"></viz:color>
       </node>
       <node id="n31" label="Pozor babišovo, prostě to nebudu kupovat">
@@ -1003,20 +655,8 @@
           <attvalue for="v_shares" value="83.0"></attvalue>
           <attvalue for="v_coord.shares" value="12.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="31905.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Pozor babišovo, prostě to nebudu kupovat"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="10.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="2.0"></attvalue>
@@ -1027,8 +667,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.43055555555555514"></attvalue>
           <attvalue for="betweenesscentrality" value="0.6716791979949874"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-1066.8177" y="364.05878"></viz:position>
+        <viz:size value="14.0"></viz:size>
+        <viz:position x="1226.8923" y="1021.2589"></viz:position>
         <viz:color r="0" g="199" b="255"></viz:color>
       </node>
       <node id="n32" label="Trikolóra Hnutí Občanů">
@@ -1037,20 +677,8 @@
           <attvalue for="v_shares" value="71.0"></attvalue>
           <attvalue for="v_coord.shares" value="17.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="7360.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Trikolóra Hnutí Občanů"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="54.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -1061,8 +689,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.8194444444444444"></attvalue>
           <attvalue for="betweenesscentrality" value="168.47910222099765"></attvalue>
         </attvalues>
-        <viz:size value="13.571429"></viz:size>
-        <viz:position x="-664.4356" y="-116.74409"></viz:position>
+        <viz:size value="20.428572"></viz:size>
+        <viz:position x="344.23547" y="713.4857"></viz:position>
         <viz:color r="255" g="112" b="69"></viz:color>
       </node>
       <node id="n33" label="Miloš Zeman zvolen prezidentem.">
@@ -1071,20 +699,8 @@
           <attvalue for="v_shares" value="13.0"></attvalue>
           <attvalue for="v_coord.shares" value="6.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="10721.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Miloš Zeman zvolen prezidentem."></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="14.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -1095,8 +711,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.5717592592592592"></attvalue>
           <attvalue for="betweenesscentrality" value="1.1520943384101279"></attvalue>
         </attvalues>
-        <viz:size value="5.714286"></viz:size>
-        <viz:position x="-580.3685" y="68.23877"></viz:position>
+        <viz:size value="6.285714"></viz:size>
+        <viz:position x="451.54968" y="514.5064"></viz:position>
         <viz:color r="255" g="112" b="69"></viz:color>
       </node>
       <node id="n34" label="Zemane, jsi ostuda ČR. Já a 5 000 000 voličů jsme tě nevolili.">
@@ -1105,20 +721,8 @@
           <attvalue for="v_shares" value="35.0"></attvalue>
           <attvalue for="v_coord.shares" value="12.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="20995.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Zemane, jsi ostuda ČR. Já a 5 000 000 voličů jsme tě nevolili."></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="17.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="2.0"></attvalue>
@@ -1129,8 +733,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.5682870370370372"></attvalue>
           <attvalue for="betweenesscentrality" value="68.77500979015635"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-1035.446" y="399.46747"></viz:position>
+        <viz:size value="14.0"></viz:size>
+        <viz:position x="1221.6685" y="969.6175"></viz:position>
         <viz:color r="0" g="199" b="255"></viz:color>
       </node>
       <node id="n35" label="Jste s námi a my jsme s Vámi">
@@ -1139,20 +743,8 @@
           <attvalue for="v_shares" value="26.0"></attvalue>
           <attvalue for="v_coord.shares" value="6.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="6758.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Jste s námi a my jsme s Vámi"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="10.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="2.0"></attvalue>
@@ -1163,8 +755,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.45601851851851816"></attvalue>
           <attvalue for="betweenesscentrality" value="5.628266203482481"></attvalue>
         </attvalues>
-        <viz:size value="5.714286"></viz:size>
-        <viz:position x="-988.79114" y="438.10333"></viz:position>
+        <viz:size value="6.285714"></viz:size>
+        <viz:position x="1222.0979" y="903.88153"></viz:position>
         <viz:color r="0" g="199" b="255"></viz:color>
       </node>
       <node id="n36" label="BABIŠI MY SE TĚ NEBOJÍME">
@@ -1173,20 +765,8 @@
           <attvalue for="v_shares" value="53.0"></attvalue>
           <attvalue for="v_coord.shares" value="8.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="7457.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="BABIŠI MY SE TĚ NEBOJÍME"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="19.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="2.0"></attvalue>
@@ -1197,8 +777,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.6157407407407408"></attvalue>
           <attvalue for="betweenesscentrality" value="164.13913803358275"></attvalue>
         </attvalues>
-        <viz:size value="7.1428576"></viz:size>
-        <viz:position x="-903.5066" y="440.43982"></viz:position>
+        <viz:size value="8.857143"></viz:size>
+        <viz:position x="1138.649" y="844.9279"></viz:position>
         <viz:color r="0" g="199" b="255"></viz:color>
       </node>
       <node id="n38" label="Za lepší Česko">
@@ -1207,20 +787,8 @@
           <attvalue for="v_shares" value="92.0"></attvalue>
           <attvalue for="v_coord.shares" value="10.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="5383.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Za lepší Česko"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="24.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -1231,8 +799,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.6342592592592592"></attvalue>
           <attvalue for="betweenesscentrality" value="5.111708364184094"></attvalue>
         </attvalues>
-        <viz:size value="8.571428"></viz:size>
-        <viz:position x="-44.08346" y="375.65527"></viz:position>
+        <viz:size value="11.428572"></viz:size>
+        <viz:position x="389.00903" y="-223.15092"></viz:position>
         <viz:color r="217" g="125" b="216"></viz:color>
       </node>
       <node id="n39" label="Přátele Miloše Zemana">
@@ -1241,20 +809,8 @@
           <attvalue for="v_shares" value="92.0"></attvalue>
           <attvalue for="v_coord.shares" value="32.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="18169.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Přátele Miloše Zemana"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="67.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -1265,8 +821,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.8425925925925928"></attvalue>
           <attvalue for="betweenesscentrality" value="95.02168279955099"></attvalue>
         </attvalues>
-        <viz:size value="24.285715"></viz:size>
-        <viz:position x="8.13289" y="10.70185"></viz:position>
+        <viz:size value="39.714287"></viz:size>
+        <viz:position x="-9.972332" y="-37.2887"></viz:position>
         <viz:color r="217" g="125" b="216"></viz:color>
       </node>
       <node id="n42" label="NE BABISOVI">
@@ -1275,20 +831,8 @@
           <attvalue for="v_shares" value="23.0"></attvalue>
           <attvalue for="v_coord.shares" value="7.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="2569.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="NE BABISOVI"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="14.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -1299,8 +843,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.5833333333333334"></attvalue>
           <attvalue for="betweenesscentrality" value="54.37854359570106"></attvalue>
         </attvalues>
-        <viz:size value="6.4285717"></viz:size>
-        <viz:position x="-673.5531" y="522.0372"></viz:position>
+        <viz:size value="7.5714283"></viz:size>
+        <viz:position x="1029.1506" y="484.2421"></viz:position>
         <viz:color r="217" g="125" b="216"></viz:color>
       </node>
       <node id="n44" label="VZBUŘTE SE!">
@@ -1309,20 +853,8 @@
           <attvalue for="v_shares" value="34.0"></attvalue>
           <attvalue for="v_coord.shares" value="7.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="4463.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="VZBUŘTE SE!"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="16.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -1333,8 +865,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.5763888888888888"></attvalue>
           <attvalue for="betweenesscentrality" value="0.7171603170773891"></attvalue>
         </attvalues>
-        <viz:size value="6.4285717"></viz:size>
-        <viz:position x="404.26474" y="-758.1093"></viz:position>
+        <viz:size value="7.5714283"></viz:size>
+        <viz:position x="-1106.1793" y="30.176273"></viz:position>
         <viz:color r="217" g="125" b="216"></viz:color>
       </node>
       <node id="n45" label="Pražská kavárna">
@@ -1343,20 +875,8 @@
           <attvalue for="v_shares" value="47.0"></attvalue>
           <attvalue for="v_coord.shares" value="7.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="10911.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Pražská kavárna"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="13.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="2.0"></attvalue>
@@ -1367,8 +887,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.4699074074074072"></attvalue>
           <attvalue for="betweenesscentrality" value="9.152372821838325"></attvalue>
         </attvalues>
-        <viz:size value="6.4285717"></viz:size>
-        <viz:position x="-1108.4469" y="358.1271"></viz:position>
+        <viz:size value="7.5714283"></viz:size>
+        <viz:position x="1260.2594" y="1053.4674"></viz:position>
         <viz:color r="0" g="199" b="255"></viz:color>
       </node>
       <node id="n50" label="SLOVANSKÝ ŠTÁT">
@@ -1377,20 +897,8 @@
           <attvalue for="v_shares" value="49.0"></attvalue>
           <attvalue for="v_coord.shares" value="11.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="8944.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="SLOVANSKÝ ŠTÁT"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="30.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -1401,8 +909,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.6643518518518517"></attvalue>
           <attvalue for="betweenesscentrality" value="6.7825661157345944"></attvalue>
         </attvalues>
-        <viz:size value="9.285715"></viz:size>
-        <viz:position x="650.93634" y="-92.4231"></viz:position>
+        <viz:size value="12.714286"></viz:size>
+        <viz:position x="-620.4649" y="-683.14636"></viz:position>
         <viz:color r="140" g="185" b="0"></viz:color>
       </node>
       <node id="n51" label="Slovensko patrí občanom-Odstavme oligarchov a ich bábky !">
@@ -1411,20 +919,8 @@
           <attvalue for="v_shares" value="20.0"></attvalue>
           <attvalue for="v_coord.shares" value="7.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="3312.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Slovensko patrí občanom-Odstavme oligarchov a ich bábky !"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="31.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -1435,8 +931,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.6759259259259259"></attvalue>
           <attvalue for="betweenesscentrality" value="7.713056537010298"></attvalue>
         </attvalues>
-        <viz:size value="6.4285717"></viz:size>
-        <viz:position x="600.7711" y="409.87567"></viz:position>
+        <viz:size value="7.5714283"></viz:size>
+        <viz:position x="34.49607" y="-900.05304"></viz:position>
         <viz:color r="35" g="150" b="111"></viz:color>
       </node>
       <node id="n52" label="Za národné, kresťanské a sociálne Slovensko">
@@ -1445,20 +941,8 @@
           <attvalue for="v_shares" value="81.0"></attvalue>
           <attvalue for="v_coord.shares" value="32.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="19038.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Za národné, kresťanské a sociálne Slovensko"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="68.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -1469,8 +953,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.8171296296296297"></attvalue>
           <attvalue for="betweenesscentrality" value="63.34503170276681"></attvalue>
         </attvalues>
-        <viz:size value="24.285715"></viz:size>
-        <viz:position x="722.7501" y="-268.4688"></viz:position>
+        <viz:size value="39.714287"></viz:size>
+        <viz:position x="-800.63434" y="-524.8938"></viz:position>
         <viz:color r="140" g="185" b="0"></viz:color>
       </node>
       <node id="n53" label="Referendum o odvolaní Zuzany Čaputovej z funkcie prezidenta SR">
@@ -1479,20 +963,8 @@
           <attvalue for="v_shares" value="62.0"></attvalue>
           <attvalue for="v_coord.shares" value="17.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="13259.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Referendum o odvolaní Zuzany Čaputovej z funkcie prezidenta SR"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="49.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -1503,8 +975,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.7685185185185186"></attvalue>
           <attvalue for="betweenesscentrality" value="27.86772775798759"></attvalue>
         </attvalues>
-        <viz:size value="13.571429"></viz:size>
-        <viz:position x="476.48203" y="-79.70871"></viz:position>
+        <viz:size value="20.428572"></viz:size>
+        <viz:position x="-451.97794" y="-484.055"></viz:position>
         <viz:color r="140" g="185" b="0"></viz:color>
       </node>
       <node id="n54" label="Skupina svobodných občanů ČR">
@@ -1513,20 +985,8 @@
           <attvalue for="v_shares" value="30.0"></attvalue>
           <attvalue for="v_coord.shares" value="5.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="3624.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Skupina svobodných občanů ČR"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="17.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -1538,7 +998,7 @@
           <attvalue for="betweenesscentrality" value="0.9513653671334893"></attvalue>
         </attvalues>
         <viz:size value="5.0"></viz:size>
-        <viz:position x="926.6693" y="-34.04691"></viz:position>
+        <viz:position x="-623.72034" y="-971.4361"></viz:position>
         <viz:color r="217" g="125" b="216"></viz:color>
       </node>
       <node id="n55" label="Volil(a) jsem PREZIDENTA Zemana!">
@@ -1547,20 +1007,8 @@
           <attvalue for="v_shares" value="19.0"></attvalue>
           <attvalue for="v_coord.shares" value="5.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="4420.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Volil(a) jsem PREZIDENTA Zemana!"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="1.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -1572,7 +1020,7 @@
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="5.0"></viz:size>
-        <viz:position x="-827.3849" y="-781.28644"></viz:position>
+        <viz:position x="-357.71802" y="1480.8005"></viz:position>
         <viz:color r="217" g="125" b="216"></viz:color>
       </node>
       <node id="n56" label="Přátelé, kterým se líbí Andrej Babiš.">
@@ -1581,20 +1029,8 @@
           <attvalue for="v_shares" value="22.0"></attvalue>
           <attvalue for="v_coord.shares" value="7.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="15861.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Přátelé, kterým se líbí Andrej Babiš."></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="25.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -1605,8 +1041,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.6481481481481481"></attvalue>
           <attvalue for="betweenesscentrality" value="4.78285009535971"></attvalue>
         </attvalues>
-        <viz:size value="6.4285717"></viz:size>
-        <viz:position x="139.86536" y="-876.24164"></viz:position>
+        <viz:size value="7.5714283"></viz:size>
+        <viz:position x="-1012.65936" y="421.0113"></viz:position>
         <viz:color r="217" g="125" b="216"></viz:color>
       </node>
       <node id="n57" label="Liberální lumpenkavárna">
@@ -1615,20 +1051,8 @@
           <attvalue for="v_shares" value="11.0"></attvalue>
           <attvalue for="v_coord.shares" value="5.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="2479.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Liberální lumpenkavárna"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="11.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="2.0"></attvalue>
@@ -1640,7 +1064,7 @@
           <attvalue for="betweenesscentrality" value="1.209896318851427"></attvalue>
         </attvalues>
         <viz:size value="5.0"></viz:size>
-        <viz:position x="-1125.6814" y="405.82602"></viz:position>
+        <viz:position x="1308.7388" y="1028.9784"></viz:position>
         <viz:color r="0" g="199" b="255"></viz:color>
       </node>
       <node id="n58" label="STOP KOMUNISTŮM">
@@ -1649,20 +1073,8 @@
           <attvalue for="v_shares" value="17.0"></attvalue>
           <attvalue for="v_coord.shares" value="5.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="7421.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="STOP KOMUNISTŮM"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="3.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="2.0"></attvalue>
@@ -1674,7 +1086,7 @@
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="5.0"></viz:size>
-        <viz:position x="-936.57996" y="500.15674"></viz:position>
+        <viz:position x="1100.1605" y="954.95337"></viz:position>
         <viz:color r="0" g="199" b="255"></viz:color>
       </node>
       <node id="n59" label="nEUhneme">
@@ -1683,20 +1095,8 @@
           <attvalue for="v_shares" value="28.0"></attvalue>
           <attvalue for="v_coord.shares" value="5.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="7157.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="nEUhneme"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="13.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="2.0"></attvalue>
@@ -1708,7 +1108,7 @@
           <attvalue for="betweenesscentrality" value="1.6860867950419032"></attvalue>
         </attvalues>
         <viz:size value="5.0"></viz:size>
-        <viz:position x="-1090.1904" y="405.30325"></viz:position>
+        <viz:position x="1277.9445" y="1005.6823"></viz:position>
         <viz:color r="0" g="199" b="255"></viz:color>
       </node>
       <node id="n61" label="Czexit">
@@ -1717,20 +1117,8 @@
           <attvalue for="v_shares" value="16.0"></attvalue>
           <attvalue for="v_coord.shares" value="7.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="1742.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Czexit"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="24.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -1741,8 +1129,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.6180555555555555"></attvalue>
           <attvalue for="betweenesscentrality" value="6.575491230771466"></attvalue>
         </attvalues>
-        <viz:size value="6.4285717"></viz:size>
-        <viz:position x="-54.733788" y="761.0213"></viz:position>
+        <viz:size value="7.5714283"></viz:size>
+        <viz:position x="801.16724" y="-441.70657"></viz:position>
         <viz:color r="217" g="125" b="216"></viz:color>
       </node>
       <node id="n62" label="Stop Kebab">
@@ -1751,20 +1139,8 @@
           <attvalue for="v_shares" value="10.0"></attvalue>
           <attvalue for="v_coord.shares" value="5.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="2478.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Stop Kebab"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="12.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -1776,7 +1152,7 @@
           <attvalue for="betweenesscentrality" value="1.0575757575757576"></attvalue>
         </attvalues>
         <viz:size value="5.0"></viz:size>
-        <viz:position x="-80.68603" y="629.9058"></viz:position>
+        <viz:position x="685.7358" y="-325.8493"></viz:position>
         <viz:color r="217" g="125" b="216"></viz:color>
       </node>
       <node id="n64" label="JSME PROTI OPĚTOVNÉ INVAZI AMERICKÉHO KONVOJE!">
@@ -1785,20 +1161,8 @@
           <attvalue for="v_shares" value="28.0"></attvalue>
           <attvalue for="v_coord.shares" value="9.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="2742.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="JSME PROTI OPĚTOVNÉ INVAZI AMERICKÉHO KONVOJE!"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="22.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -1809,8 +1173,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.6249999999999999"></attvalue>
           <attvalue for="betweenesscentrality" value="2.1742932321563364"></attvalue>
         </attvalues>
-        <viz:size value="7.857143"></viz:size>
-        <viz:position x="375.4214" y="717.0667"></viz:position>
+        <viz:size value="10.142857"></viz:size>
+        <viz:position x="465.13992" y="-844.5766"></viz:position>
         <viz:color r="35" g="150" b="111"></viz:color>
       </node>
       <node id="n65" label="Skupina pro svobodu">
@@ -1819,20 +1183,8 @@
           <attvalue for="v_shares" value="13.0"></attvalue>
           <attvalue for="v_coord.shares" value="6.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="2824.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Skupina pro svobodu"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="22.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -1843,8 +1195,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.6249999999999999"></attvalue>
           <attvalue for="betweenesscentrality" value="3.2484856502809794"></attvalue>
         </attvalues>
-        <viz:size value="5.714286"></viz:size>
-        <viz:position x="248.38016" y="682.03235"></viz:position>
+        <viz:size value="6.285714"></viz:size>
+        <viz:position x="518.58344" y="-706.13007"></viz:position>
         <viz:color r="35" g="150" b="111"></viz:color>
       </node>
       <node id="n66" label="Náš President Miloš Zeman s námi, my s ním!">
@@ -1853,20 +1205,8 @@
           <attvalue for="v_shares" value="18.0"></attvalue>
           <attvalue for="v_coord.shares" value="6.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="2409.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Náš President Miloš Zeman s námi, my s ním!"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="19.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -1877,8 +1217,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.6018518518518517"></attvalue>
           <attvalue for="betweenesscentrality" value="0.35291005291005284"></attvalue>
         </attvalues>
-        <viz:size value="5.714286"></viz:size>
-        <viz:position x="448.80792" y="607.56226"></viz:position>
+        <viz:size value="6.285714"></viz:size>
+        <viz:position x="318.7291" y="-867.1645"></viz:position>
         <viz:color r="35" g="150" b="111"></viz:color>
       </node>
       <node id="n67" label="OPRAVDOVÁ DEMOKRACIE">
@@ -1887,20 +1227,8 @@
           <attvalue for="v_shares" value="30.0"></attvalue>
           <attvalue for="v_coord.shares" value="9.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="2089.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="OPRAVDOVÁ DEMOKRACIE"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="22.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -1911,8 +1239,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.6226851851851851"></attvalue>
           <attvalue for="betweenesscentrality" value="2.650369497652106"></attvalue>
         </attvalues>
-        <viz:size value="7.857143"></viz:size>
-        <viz:position x="353.67444" y="568.27423"></viz:position>
+        <viz:size value="10.142857"></viz:size>
+        <viz:position x="333.98737" y="-752.1239"></viz:position>
         <viz:color r="35" g="150" b="111"></viz:color>
       </node>
       <node id="n68" label="CZEXIT">
@@ -1921,20 +1249,8 @@
           <attvalue for="v_shares" value="31.0"></attvalue>
           <attvalue for="v_coord.shares" value="7.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="5779.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="CZEXIT"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="14.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -1945,8 +1261,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.5509259259259259"></attvalue>
           <attvalue for="betweenesscentrality" value="0.08966861598440545"></attvalue>
         </attvalues>
-        <viz:size value="6.4285717"></viz:size>
-        <viz:position x="-516.76953" y="-760.51984"></viz:position>
+        <viz:size value="7.5714283"></viz:size>
+        <viz:position x="-608.2102" y="998.86035"></viz:position>
         <viz:color r="217" g="125" b="216"></viz:color>
       </node>
       <node id="n70" label="CZEXIT !!!">
@@ -1955,20 +1271,8 @@
           <attvalue for="v_shares" value="79.0"></attvalue>
           <attvalue for="v_coord.shares" value="18.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="8723.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="CZEXIT !!!"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="48.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -1979,8 +1283,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.7800925925925927"></attvalue>
           <attvalue for="betweenesscentrality" value="66.04650418444143"></attvalue>
         </attvalues>
-        <viz:size value="14.285714"></viz:size>
-        <viz:position x="122.79761" y="495.43918"></viz:position>
+        <viz:size value="21.714287"></viz:size>
+        <viz:position x="411.33487" y="-464.21704"></viz:position>
         <viz:color r="217" g="125" b="216"></viz:color>
       </node>
       <node id="n71" label="Jsme vlastenci! Svou VLAST nezradíme! &#x1f1e8;&#x1f1ff;">
@@ -1989,20 +1293,8 @@
           <attvalue for="v_shares" value="53.0"></attvalue>
           <attvalue for="v_coord.shares" value="20.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="2946.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Jsme vlastenci! Svou VLAST nezradíme! &#x1f1e8;&#x1f1ff;"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="48.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -2013,8 +1305,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.7546296296296297"></attvalue>
           <attvalue for="betweenesscentrality" value="25.028505359075133"></attvalue>
         </attvalues>
-        <viz:size value="15.714286"></viz:size>
-        <viz:position x="293.5281" y="313.7321"></viz:position>
+        <viz:size value="24.285715"></viz:size>
+        <viz:position x="103.6629" y="-507.34204"></viz:position>
         <viz:color r="35" g="150" b="111"></viz:color>
       </node>
       <node id="n72" label="VLASTENCI A PŘÁTELÉ ZDRAVÉHO ROZUMU">
@@ -2023,20 +1315,8 @@
           <attvalue for="v_shares" value="50.0"></attvalue>
           <attvalue for="v_coord.shares" value="12.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="1888.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="VLASTENCI A PŘÁTELÉ ZDRAVÉHO ROZUMU"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="30.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -2047,8 +1327,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.6319444444444443"></attvalue>
           <attvalue for="betweenesscentrality" value="5.4991754072938885"></attvalue>
         </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-91.44283" y="214.89827"></viz:position>
+        <viz:size value="14.0"></viz:size>
+        <viz:position x="257.6875" y="-71.28656"></viz:position>
         <viz:color r="217" g="125" b="216"></viz:color>
       </node>
       <node id="n73" label="Přehled dění - doma i ve světě">
@@ -2057,20 +1337,8 @@
           <attvalue for="v_shares" value="38.0"></attvalue>
           <attvalue for="v_coord.shares" value="8.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="2588.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Přehled dění - doma i ve světě"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="12.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -2081,8 +1349,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.5509259259259259"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0625"></attvalue>
         </attvalues>
-        <viz:size value="7.1428576"></viz:size>
-        <viz:position x="890.5603" y="120.11178"></viz:position>
+        <viz:size value="8.857143"></viz:size>
+        <viz:position x="-452.34055" y="-1004.074"></viz:position>
         <viz:color r="217" g="125" b="216"></viz:color>
       </node>
       <node id="n75" label="Babiš znovu premiérem.">
@@ -2091,20 +1359,8 @@
           <attvalue for="v_shares" value="24.0"></attvalue>
           <attvalue for="v_coord.shares" value="7.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="17520.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Babiš znovu premiérem."></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="17.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -2115,8 +1371,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.5925925925925926"></attvalue>
           <attvalue for="betweenesscentrality" value="0.7150506356388708"></attvalue>
         </attvalues>
-        <viz:size value="6.4285717"></viz:size>
-        <viz:position x="-354.91806" y="-787.63245"></viz:position>
+        <viz:size value="7.5714283"></viz:size>
+        <viz:position x="-572.8188" y="838.9822"></viz:position>
         <viz:color r="217" g="125" b="216"></viz:color>
       </node>
       <node id="n76" label="Děkujeme Maďarsku , děkujeme panu Orbánovi">
@@ -2125,20 +1381,8 @@
           <attvalue for="v_shares" value="75.0"></attvalue>
           <attvalue for="v_coord.shares" value="20.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="7587.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Děkujeme Maďarsku , děkujeme panu Orbánovi"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="54.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -2149,8 +1393,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.775462962962963"></attvalue>
           <attvalue for="betweenesscentrality" value="45.125896092270416"></attvalue>
         </attvalues>
-        <viz:size value="15.714286"></viz:size>
-        <viz:position x="242.68736" y="100.19223"></viz:position>
+        <viz:size value="24.285715"></viz:size>
+        <viz:position x="-104.973236" y="-337.70004"></viz:position>
         <viz:color r="217" g="125" b="216"></viz:color>
       </node>
       <node id="n79" label="Češi, táhněme za jeden provaz">
@@ -2159,20 +1403,8 @@
           <attvalue for="v_shares" value="125.0"></attvalue>
           <attvalue for="v_coord.shares" value="11.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="27032.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Češi, táhněme za jeden provaz"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="10.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -2183,8 +1415,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.5300925925925926"></attvalue>
           <attvalue for="betweenesscentrality" value="14.419808580993427"></attvalue>
         </attvalues>
-        <viz:size value="9.285715"></viz:size>
-        <viz:position x="-346.64902" y="735.98773"></viz:position>
+        <viz:size value="12.714286"></viz:size>
+        <viz:position x="970.60657" y="-108.82044"></viz:position>
         <viz:color r="217" g="125" b="216"></viz:color>
       </node>
       <node id="n80" label="PREDČASNÉ VOĽBY 2021">
@@ -2193,20 +1425,8 @@
           <attvalue for="v_shares" value="70.0"></attvalue>
           <attvalue for="v_coord.shares" value="11.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="19024.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="PREDČASNÉ VOĽBY 2021"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="38.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -2217,8 +1437,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.6851851851851851"></attvalue>
           <attvalue for="betweenesscentrality" value="76.99812563210082"></attvalue>
         </attvalues>
-        <viz:size value="9.285715"></viz:size>
-        <viz:position x="-238.25668" y="629.3767"></viz:position>
+        <viz:size value="12.714286"></viz:size>
+        <viz:position x="791.60425" y="-156.48141"></viz:position>
         <viz:color r="217" g="125" b="216"></viz:color>
       </node>
       <node id="n83" label="Klub Svobodného vysílače">
@@ -2227,20 +1447,8 @@
           <attvalue for="v_shares" value="28.0"></attvalue>
           <attvalue for="v_coord.shares" value="5.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="2193.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Klub Svobodného vysílače"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="29.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -2252,7 +1460,7 @@
           <attvalue for="betweenesscentrality" value="13.443951188232113"></attvalue>
         </attvalues>
         <viz:size value="5.0"></viz:size>
-        <viz:position x="121.05368" y="844.27496"></viz:position>
+        <viz:position x="768.1241" y="-682.8387"></viz:position>
         <viz:color r="35" g="150" b="111"></viz:color>
       </node>
       <node id="n84" label="Svobodné Česko">
@@ -2261,20 +1469,8 @@
           <attvalue for="v_shares" value="64.0"></attvalue>
           <attvalue for="v_coord.shares" value="7.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="18686.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Svobodné Česko"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="3.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -2285,8 +1481,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.40856481481481466"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
         </attvalues>
-        <viz:size value="6.4285717"></viz:size>
-        <viz:position x="-363.74878" y="786.8195"></viz:position>
+        <viz:size value="7.5714283"></viz:size>
+        <viz:position x="1025.9382" y="-121.84007"></viz:position>
         <viz:color r="217" g="125" b="216"></viz:color>
       </node>
       <node id="n85" label="Covidu se nebojíme, bojíme se &quot;opatření&quot; - Nechte nás na pokoji!">
@@ -2295,20 +1491,8 @@
           <attvalue for="v_shares" value="100.0"></attvalue>
           <attvalue for="v_coord.shares" value="9.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="12204.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Covidu se nebojíme, bojíme se &quot;opatření&quot; - Nechte nás na pokoji!"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="26.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -2319,8 +1503,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.6296296296296295"></attvalue>
           <attvalue for="betweenesscentrality" value="11.722588592138287"></attvalue>
         </attvalues>
-        <viz:size value="7.857143"></viz:size>
-        <viz:position x="-398.81778" y="614.9299"></viz:position>
+        <viz:size value="10.142857"></viz:size>
+        <viz:position x="893.4027" y="13.920391"></viz:position>
         <viz:color r="217" g="125" b="216"></viz:color>
       </node>
       <node id="n89" label="Slobodná Verejná Mienka - necenzurované informácie">
@@ -2329,20 +1513,8 @@
           <attvalue for="v_shares" value="42.0"></attvalue>
           <attvalue for="v_coord.shares" value="7.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="6635.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Slobodná Verejná Mienka - necenzurované informácie"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="19.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -2353,8 +1525,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.5775462962962963"></attvalue>
           <attvalue for="betweenesscentrality" value="2.5864098118893515"></attvalue>
         </attvalues>
-        <viz:size value="6.4285717"></viz:size>
-        <viz:position x="629.6836" y="670.7676"></viz:position>
+        <viz:size value="7.5714283"></viz:size>
+        <viz:position x="311.1575" y="-1096.3289"></viz:position>
         <viz:color r="140" g="185" b="0"></viz:color>
       </node>
       <node id="n94" label="MY SME TU DOMA">
@@ -2363,20 +1535,8 @@
           <attvalue for="v_shares" value="14.0"></attvalue>
           <attvalue for="v_coord.shares" value="5.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="3763.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="MY SME TU DOMA"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="10.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -2388,7 +1548,7 @@
           <attvalue for="betweenesscentrality" value="0.06802721088435373"></attvalue>
         </attvalues>
         <viz:size value="5.0"></viz:size>
-        <viz:position x="731.1663" y="-685.723"></viz:position>
+        <viz:position x="-1223.2219" y="-288.34982"></viz:position>
         <viz:color r="140" g="185" b="0"></viz:color>
       </node>
       <node id="n95" label="Svobodné rádio">
@@ -2397,20 +1557,8 @@
           <attvalue for="v_shares" value="14.0"></attvalue>
           <attvalue for="v_coord.shares" value="6.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="3545.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Svobodné rádio"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="21.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -2421,8 +1569,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.611111111111111"></attvalue>
           <attvalue for="betweenesscentrality" value="1.7731966562848913"></attvalue>
         </attvalues>
-        <viz:size value="5.714286"></viz:size>
-        <viz:position x="-23.191679" y="-860.9687"></viz:position>
+        <viz:size value="6.285714"></viz:size>
+        <viz:position x="-891.6463" y="568.00397"></viz:position>
         <viz:color r="217" g="125" b="216"></viz:color>
       </node>
       <node id="n166" label="Priatelia Ruska v Slovenskej Republike">
@@ -2431,20 +1579,8 @@
           <attvalue for="v_shares" value="23.0"></attvalue>
           <attvalue for="v_coord.shares" value="5.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="10585.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Priatelia Ruska v Slovenskej Republike"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="29.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -2456,7 +1592,7 @@
           <attvalue for="betweenesscentrality" value="6.929152479091664"></attvalue>
         </attvalues>
         <viz:size value="5.0"></viz:size>
-        <viz:position x="812.2564" y="445.49884"></viz:position>
+        <viz:position x="-60.31658" y="-1146.5656"></viz:position>
         <viz:color r="140" g="185" b="0"></viz:color>
       </node>
       <node id="n168" label="Občiansky tribunál - oficiálna FB skupina">
@@ -2465,20 +1601,8 @@
           <attvalue for="v_shares" value="36.0"></attvalue>
           <attvalue for="v_coord.shares" value="8.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="212.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Občiansky tribunál - oficiálna FB skupina"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="31.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -2489,8 +1613,8 @@
           <attvalue for="harmonicclosnesscentrality" value="0.6458333333333333"></attvalue>
           <attvalue for="betweenesscentrality" value="6.994843719393523"></attvalue>
         </attvalues>
-        <viz:size value="7.1428576"></viz:size>
-        <viz:position x="617.4853" y="-709.0353"></viz:position>
+        <viz:size value="8.857143"></viz:size>
+        <viz:position x="-1147.8895" y="-192.89502"></viz:position>
         <viz:color r="140" g="185" b="0"></viz:color>
       </node>
       <node id="n171" label="Miloš Zeman: Náš prezident !  Milos Zeman: Our president! Милош Земан: Наш!">
@@ -2499,20 +1623,8 @@
           <attvalue for="v_shares" value="23.0"></attvalue>
           <attvalue for="v_coord.shares" value="5.0"></attvalue>
           <attvalue for="v_account.avg.subscribercount" value="15946.0"></attvalue>
-          <attvalue for="v_account.platform" value="Facebook"></attvalue>
           <attvalue for="v_account.name" value="Miloš Zeman: Náš prezident !  Milos Zeman: Our president! Милош Земан: Наш!"></attvalue>
-          <attvalue for="v_name.changed" value="false"></attvalue>
-          <attvalue for="v_account.handle" value="NA"></attvalue>
-          <attvalue for="v_handle.changed" value="false"></attvalue>
-          <attvalue for="v_account.verified" value="false"></attvalue>
-          <attvalue for="v_pageadmintopcountry.changed" value="false"></attvalue>
-          <attvalue for="v_account.pageadmintopcountry" value="NA"></attvalue>
           <attvalue for="v_account.accounttype" value="facebook_group"></attvalue>
-          <attvalue for="v_account.pagecreateddate" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription" value="NA"></attvalue>
-          <attvalue for="v_account.pagedescription.changed" value="false"></attvalue>
-          <attvalue for="v_account.pagecategory" value="none"></attvalue>
-          <attvalue for="v_account.pagecategory.changed" value="false"></attvalue>
           <attvalue for="v_degree" value="16.0"></attvalue>
           <attvalue for="v_component" value="1.0"></attvalue>
           <attvalue for="v_cluster" value="1.0"></attvalue>
@@ -2524,7 +1636,7 @@
           <attvalue for="betweenesscentrality" value="1.0393657941645558"></attvalue>
         </attvalues>
         <viz:size value="5.0"></viz:size>
-        <viz:position x="-221.32277" y="-851.1564"></viz:position>
+        <viz:position x="-739.4826" y="763.7978"></viz:position>
         <viz:color r="217" g="125" b="216"></viz:color>
       </node>
     </nodes>
